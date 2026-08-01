@@ -1,0 +1,63 @@
+# SENO Avian Genetics Research Center
+
+> Scientific research knowledge base on avian molecular genetics, bird DNA testing, PCR diagnostics, genome analysis, and racing pigeon genetics.
+
+## What this is
+
+SENO Research Center is the scientific knowledge platform of **Zhangjiakou SENO Testing Center** (张家口塞诺检测中心), an avian molecular genetics research organization specializing in PCR-based bird DNA testing, avian diagnostics, and genetic analysis. Our research covers the CHD gene sex-determination system, qPCR pathogen detection, and racing pigeon genetic markers.
+
+## Full content
+
+For the complete text of every page, read [llms-full.txt](https://research.aviantestpro.com/llms-full.txt).
+
+## Research areas
+
+- **Avian Genetics** — ZZ/ZW sex chromosomes, CHD gene, inheritance patterns
+- **Molecular Diagnostics** — PCR, qPCR, DNA extraction, assay validation
+- **Bird Genome Research** — genome sequencing, mtDNA, population genetics
+- **Racing Pigeon Genetics** — performance markers, DNA fingerprinting, parentage
+- **Avian Disease Research** — PBFD, polyomavirus, avian influenza surveillance
+- **Laboratory Methods** — sampling, extraction, troubleshooting, quality control
+- **Research Database** — CHD gene and STR marker reference data
+- **Publications** — peer-reviewed literature with DOI/PubMed IDs
+
+## Priority resources
+
+### Core articles
+
+- [Avian Genetics Explained: How DNA Determines Bird Characteristics](https://research.aviantestpro.com/avian-genetics/avian-genetics-explained/)
+- [Bird Sex Chromosomes: The ZZ/ZW Genetic System](https://research.aviantestpro.com/avian-genetics/bird-sex-chromosomes-zz-zw/)
+- [CHD Gene in Avian Sex Determination: Molecular Mechanism](https://research.aviantestpro.com/avian-genetics/chd-gene-sex-determination/)
+- [DNA Sexing Accuracy in Birds: Error Rates and Quality Assurance](https://research.aviantestpro.com/avian-genetics/dna-sexing-accuracy/)
+- [PCR-Based Avian DNA Testing: Scientific Principles](https://research.aviantestpro.com/molecular-diagnostics/pcr-based-avian-dna-testing/)
+- [qPCR Technology in Avian Disease Detection](https://research.aviantestpro.com/molecular-diagnostics/qpcr-avian-disease-detection/)
+- [DNA Extraction from Feather Samples](https://research.aviantestpro.com/molecular-diagnostics/dna-extraction-feather-samples/)
+- [Controls in Avian qPCR: Types and Interpretation](https://research.aviantestpro.com/molecular-diagnostics/qpcr-controls-interpretation/)
+- [Genome Sequencing in Modern Avian Biology](https://research.aviantestpro.com/bird-genome/genome-sequencing-avian-biology/)
+- [Mitochondrial DNA Analysis in Birds](https://research.aviantestpro.com/bird-genome/mitochondrial-dna-analysis-birds/)
+- [Genetic Diversity of Domestic Pigeons](https://research.aviantestpro.com/bird-genome/genetic-diversity-domestic-pigeons/)
+- [Bird DNA Barcoding: COI Workflow and Databases](https://research.aviantestpro.com/bird-genome/bird-dna-barcoding/)
+- [Racing Pigeon Performance Genetics](https://research.aviantestpro.com/racing-pigeon-genetics/performance-genetics/)
+- [DNA Fingerprinting in Racing Pigeons](https://research.aviantestpro.com/racing-pigeon-genetics/dna-fingerprinting-racing-pigeons/)
+- [Racing Pigeon Health Screening: Molecular Panel Design](https://research.aviantestpro.com/racing-pigeon-genetics/pigeon-health-screening-panel/)
+- [Molecular Detection of PBFD Virus](https://research.aviantestpro.com/avian-disease-research/pbfd-molecular-detection/)
+- [PCR Detection of Avian Polyomavirus](https://research.aviantestpro.com/avian-disease-research/avian-polyomavirus-pcr/)
+- [Avian Disease Surveillance Using RT-PCR](https://research.aviantestpro.com/avian-disease-research/avian-disease-surveillance-rtpcr/)
+- [Sample Collection and Handling for Avian DNA Testing](https://research.aviantestpro.com/lab-methods/sample-collection-handling/)
+- [PCR Troubleshooting: Common Problems and Solutions](https://research.aviantestpro.com/lab-methods/pcr-troubleshooting/)
+
+### Reference data
+
+- [Research Database — CHD Gene](https://research.aviantestpro.com/research-database/chd-gene/)
+- [Research Database — STR Markers](https://research.aviantestpro.com/research-database/str-markers/)
+- [Research Glossary](https://research.aviantestpro.com/glossary/)
+- [Scientific FAQ](https://research.aviantestpro.com/scientific-faq/)
+- [Publications & References](https://research.aviantestpro.com/publications/)
+
+## About
+
+- **Organization**: Zhangjiakou SENO Testing Center Co., Ltd.
+- **Website**: https://aviantestpro.com
+- **Documentation**: https://data.aviantestpro.com
+- **Research**: https://research.aviantestpro.com
+- **Contact**: lab@aviantestpro.com

@@ -1,0 +1,99 @@
+site_name: SENO Avian Genetics Research Center
+site_url: https://research.aviantestpro.com/
+site_description: Scientific research platform covering avian genetics, PCR diagnostics, bird genome analysis, DNA sex determination, disease detection, and racing pigeon genetics.
+site_author: SENO Research Center
+copyright: Copyright &copy; 2026 SENO Testing Center — All Rights Reserved
+
+theme:
+  name: material
+  custom_dir: overrides
+  language: en
+  palette:
+    - scheme: default
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.footer
+
+markdown_extensions:
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - tables
+  - admonition
+  - footnotes
+  - attr_list
+  - md_in_html
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_css:
+  - assets/extra.css
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - Avian Genetics:
+    - Overview: avian-genetics/index.md
+    - Avian Genetics Explained: avian-genetics/avian-genetics-explained.md
+    - Bird Sex Chromosomes (ZZ/ZW): avian-genetics/bird-sex-chromosomes-zz-zw.md
+    - CHD Gene in Avian Sex Determination: avian-genetics/chd-gene-sex-determination.md
+    - DNA Sexing Accuracy in Birds: avian-genetics/dna-sexing-accuracy.md
+  - Molecular Diagnostics:
+    - Overview: molecular-diagnostics/index.md
+    - PCR-Based Avian DNA Testing: molecular-diagnostics/pcr-based-avian-dna-testing.md
+    - qPCR Technology in Avian Disease Detection: molecular-diagnostics/qpcr-avian-disease-detection.md
+    - DNA Extraction from Feather Samples: molecular-diagnostics/dna-extraction-feather-samples.md
+    - Controls in Avian qPCR: molecular-diagnostics/qpcr-controls-interpretation.md
+  - Bird Genome Research:
+    - Overview: bird-genome/index.md
+    - Genome Sequencing in Modern Avian Biology: bird-genome/genome-sequencing-avian-biology.md
+    - Mitochondrial DNA Analysis in Birds: bird-genome/mitochondrial-dna-analysis-birds.md
+    - Genetic Diversity of Domestic Pigeons: bird-genome/genetic-diversity-domestic-pigeons.md
+    - Bird DNA Barcoding: bird-genome/bird-dna-barcoding.md
+  - Racing Pigeon Genetics:
+    - Overview: racing-pigeon-genetics/index.md
+    - Racing Pigeon Performance Genetics: racing-pigeon-genetics/performance-genetics.md
+    - DNA Fingerprinting in Racing Pigeons: racing-pigeon-genetics/dna-fingerprinting-racing-pigeons.md
+    - Racing Pigeon Health Screening: racing-pigeon-genetics/pigeon-health-screening-panel.md
+  - Avian Disease Research:
+    - Overview: avian-disease-research/index.md
+    - Molecular Detection of PBFD Virus: avian-disease-research/pbfd-molecular-detection.md
+    - PCR Detection of Avian Polyomavirus: avian-disease-research/avian-polyomavirus-pcr.md
+    - Avian Disease Surveillance Using RT-PCR: avian-disease-research/avian-disease-surveillance-rtpcr.md
+  - Laboratory Methods:
+    - Overview: lab-methods/index.md
+    - Sample Collection and Handling: lab-methods/sample-collection-handling.md
+    - PCR Troubleshooting: lab-methods/pcr-troubleshooting.md
+  - Research Database:
+    - Overview: research-database/index.md
+    - CHD Gene Database: research-database/chd-gene.md
+    - STR Marker Database: research-database/str-markers.md
+  - Glossary: glossary/index.md
+  - Scientific FAQ: scientific-faq/index.md
+  - Publications & References:
+    - Overview: publications/index.md
